@@ -1,7 +1,7 @@
 /*
  ====================================================================================
  Nombre      : stack_memory.c
- Autor     	 : Abdel Gadiel Martinez Lassonde
+ Autor       : Abdel Gadiel Martinez Lassonde
  Version     : 1.0
  Copyright   : GNU General Public License v2.0
  Descripcion : Proyecto academico de administracion de aplicaciones moviles por pilas
